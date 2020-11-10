@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to apply machine learning in real wodld at scale.
 - ✨ Always open to exciting opportunities.
 - 💬 Ask me about Machine learning, Deep learning and algo & DS
-- 📫 How to reach me: [Email](c.s.vankhede@gmail.com), [LinkedIn](https://www.linkedin.com/in/chhaya-vankhede-923a17146/)
+- 📫 How to reach me: [Email](c.s.vankhede@gmail.com)
 - ⚡ Fun fact: I like blogging, you can find some of my blogs [here](https://csvankhede.netlify.app/blog/), also like to do daily programming practice.
 
 <br />
