@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<img align="center" alt="GIF" src="https://github.com/csvankhede/csvankhede/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/csvankhede/csvankhede/blob/main/code.gif?raw=true" width="400" height="300" />
