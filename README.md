@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to apply machine learning in the real world at scale.
 - ✨ Always open to exciting opportunities.
 - 💬 Ask me about ML/DL, algo & DS
-- 📫 How to reach me: [Email](c.s.vankhede@gmail.com) <a href="https://www.linkedin.com/in/chhaya-vankhede-923a17146/"><img align="center" alt="Chhaya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a> <a href="c.s.vankhede@gmail.com"><img align="center" alt="Chhaya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gmail.svg" /></a><br />
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/chhaya-vankhede-923a17146/"><img align="center" alt="Chhaya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="c.s.vankhede@gmail.com"><img align="center" alt="Chhaya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gmail.svg" /></a><br />
 - ⚡ Fun fact: I like blogging, you can find some of my blogs [here](https://csvankhede.netlify.app/blog/).
 
 <br />
