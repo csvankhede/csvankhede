@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I like blogging, you can find some of my blogs [here](https://csvankhede.netlify.app/blog/). 
 -->
-- 🔭 I have experience in developing and developing machine learning systems, as well as building backend services. I have worked with various technologies and have a strong foundation in the Python programming language. 
+- 🔭 I have experience in developing and deploying machine learning systems, as well as building backend services. I have worked with various technologies and have a strong foundation in the Python programming language. 
 - 🌱 I am currently working as part of the backend team, where I design and develop solutions, work with the ML team to build APIs, and utilize technologies.
 - ✨ Always open to exciting opportunities.
 - 💬 Ask me about ML/DL, algo & DS
