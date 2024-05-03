@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ✨ Always open to exciting opportunities.
 - 💬 Ask me about ML/DL, algo & DS
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/chhaya-vankhede-923a17146/"><img align="center" alt="Chhaya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>  <a href="c.s.vankhede@gmail.com"><img align="center" alt="Chhaya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gmail.svg" /></a><br />
-- ⚡ Fun fact: I like blogging and travelling, you can find some of my blogs [here](https://csvankhede.com/blog/).
+- ⚡ Fun fact: I like blogging and travelling, you can find some of my blogs [here](https://medium.com/@c.s.vankhede).
 
 <br />
 <br />
